@@ -1,0 +1,25 @@
+[
+    {
+        "nombre": "Al hacerlo en un fichero externo debemos de poner el nombre del campo y su contenido entre comillas dobles",
+        "nombre":"Payton Hobart"
+    },
+    {
+        "nombre":"Wendy Carr"
+    },
+    {
+        "nombre":"Mina"
+    },
+    {
+        "nombre":"Jonathan Harker"
+    },
+    {
+        "nombre":"Drácula"
+    },
+    {
+        "nombre":"Once"
+    } ,
+    {
+        "nombre":"Jim Hopper"
+    }
+
+]
